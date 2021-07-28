@@ -21,3 +21,5 @@ In the files You will find added comments that are pointing to those extra added
 For extra changes in styling there could be more done and it's open to change.
 
 This exercise is more focused on JS rather than CSS.
+
+See it work <a href="https://kmarijanovic.github.io/drawing-animation-timer-app/index.html">here</a>!
